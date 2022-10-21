@@ -11,3 +11,5 @@
 <p align="center">
   Simple vue project for testing project deployment and vue features
 </p>
+
+## -- Just type your city name
